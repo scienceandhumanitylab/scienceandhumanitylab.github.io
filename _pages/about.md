@@ -26,10 +26,9 @@ Welcome to the Science and Humanity Lab at the [Vermont Complex Systems Institut
 1. we _build models_ to understand science as a complex social system, and
 2. we _model by example_ how scientists can engage fiercely and objectively on pressing humanitarian questions.
 
-**Upcoming**
-* (Dec 2025) We are co-organizing two upcoming workshops in December at the Santa Fe Institute: (1) [Towards a Data-Driven Science of Stories](https://www.santafe.edu/events/towards-a-data-driven-science-of-stories) with Peter Dodds, Samsun Knight, and Juniper Lovato; and (2) [Understanding the Historical Forces Driving Expansions of Human Rights](https://www.santafe.edu/events/understanding-the-historical-forces-driving-expansions-of-human-rights) with David Wolpert.
-
 **News**
+* (Dec 2025) Co-organized two workshops in December at the Santa Fe Institute: (1) [Towards a Data-Driven Science of Stories](https://www.santafe.edu/events/towards-a-data-driven-science-of-stories) with Peter Dodds, Samsun Knight, and Juniper Lovato; and (2) [Understanding the Historical Forces Driving Expansions of Human Rights](https://www.santafe.edu/events/understanding-the-historical-forces-driving-expansions-of-human-rights) with David Wolpert.
+
 * (Nov 2025) New paper in _[Nature Communications](https://www.nature.com/articles/s41467-025-64732-0)_. We contribute a novel statistical method called agglomerative matching to understand the relationship between land rights and reforestation.
 
 * (Sep 2025) Welcome Luc Cohen-Wanis to the lab! 🥳
