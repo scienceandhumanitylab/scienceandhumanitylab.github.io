@@ -5,6 +5,21 @@ permalink: /research/
 author_profile: false
 ---
 
+<div class="humanity-quote">
+  <blockquote>
+    <div class="humanity-header">
+      <strong>humanity</strong> <em>(noun)</em>
+    </div>
+    <div class="humanity-content">
+      <p><strong>1</strong> : compassionate, sympathetic, or generous behavior or disposition : the quality or state of being humane</p>
+      <p><strong>2</strong> : the quality or state of being human</p>
+      <p><strong>3</strong> : the totality of human beings : the human race : humankind</p>
+      <cite>Merriam-Webster</cite>
+    </div>
+  </blockquote>
+</div>
+
+
 Welcome to the Science and Humanity Lab at the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/), where we model the human side of science. We mean this in both senses of the word: our group builds models to understand science as a complex social system, and we aim to model (i.e., demonstrate by example) how scientists can engage fiercely and objectively on humanitarian questions that affect us all.
 
 The human side of science
