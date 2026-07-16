@@ -25,7 +25,7 @@ Welcome to the Science and Humanity Lab at the [Vermont Complex Systems Institut
 The human side of science
 ======
 
-Science is a human activity. To understand the scientific ecosystem, we have to understand the human beings --- you and me included --- who conduct experiments, write papers, apply for funding, run departments, and teach classes. Our lab examines the fingerprint of our humanity in our social structures and collective knowledge, such as the importance of [randomness in scientific careers](https://arxiv.org/abs/2309.04414) (under review), the role of [labor in driving productivity](https://www.science.org/doi/10.1126/sciadv.abq7056) (_Science Advances_), [how reputation shapes faculty hiring](https://www.nature.com/articles/s41586-022-05222-x#Bib1) (_Nature_), and how [even experts can be misled by common statistical graphics](https://www.pnas.org/doi/full/10.1073/pnas.1702121114) (_PNAS_).
+Our lab studies the human infrastructure that conducts experiments, writes and reviews papers, applies for funding, and teaches classes. We have worked on topics such as [peer review at elite journals](https://www.science.org/doi/10.1126/sciadv.aec0494) (_Science Advances_), the importance of [randomness in scientific careers](https://arxiv.org/abs/2309.04414) (To appear, _npj Complexity_), the role of [labor in driving productivity](https://www.science.org/doi/10.1126/sciadv.abq7056) (_Science Advances_), [how reputation shapes faculty hiring](https://www.nature.com/articles/s41586-022-05222-x#Bib1) (_Nature_), and how [even experts can be misled by common statistical graphics](https://www.pnas.org/doi/full/10.1073/pnas.1702121114) (_PNAS_).
 
 
 Quantitative human rights, justice, and policy
