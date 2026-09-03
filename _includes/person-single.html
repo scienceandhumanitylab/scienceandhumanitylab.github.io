@@ -3,8 +3,9 @@
   <img src="{{ include.person.image }}" alt="{{ include.person.title }}" style="max-width: 200px; float: left; margin-right: 20px;">
   {% endif %}
   <div>
-    <strong>{{ include.person.title }}</strong><br>
-    {{ include.person.position }}<br>
+      <strong>{{ include.person.name}}</strong><br>
+      ({{ include.person.pronouns }})<br>
+      {{ include.person.program }}<br></br>
     Email: <a href="mailto:{{ include.person.email }}">{{ include.person.email }}</a>{% if include.person.website %} | Website: <a href="{{ include.person.website }}">{{ include.person.website }}</a>{% endif %}{% if include.person.cv %} | <a href="{{ include.person.cv }}">CV</a>{% endif %}
   </div>
   {{ include.person.content }}

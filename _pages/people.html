@@ -7,19 +7,16 @@ author_profile: false
 
 {% include base_path %}
 
-<h2>Principal Investigator</h2>
-<hr />
-{% for person in site.people %}
-  {% if person.role == "pi" %}
-    {% include person-single.html person=person %}
+{% assign roles = "pi,phd,ms,cert" | split: "," %}
+{% assign role_labels = "Principal Investigator,PhD Students,MS Students,Certificate Students" | split: "," %}
+
+{% for role in roles %}
+  {% assign members = site.people | where: "role", role | sort: "last_name" %}
+  {% if members.size > 0 %}
+    <h2 class="people-role">{{ role_labels[forloop.index0] }}</h2>
+    <hr />
+    {% for person in members %}
+      {% include person-single.html person=person %}
+    {% endfor %}
   {% endif %}
 {% endfor %}
-
-<h2>PhD Students</h2>
-<hr />
-{% for person in site.people %}
-  {% if person.role == "grad" %}
-    {% include person-single.html person=person %}
-  {% endif %}
-{% endfor %}
-

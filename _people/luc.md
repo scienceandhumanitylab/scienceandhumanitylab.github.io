@@ -1,12 +1,14 @@
 ---
-title: "Luc Cohen-Wanis"
+name: "Luc Cohen-Wanis"
+last_name: "Cohen-Wanis"
+pronouns: "he/him"
 collection: people
-role: "grad"
+role: "phd"
 permalink: /people/luc
-excerpt: 'Complex Systems and Data Science'
-position: 'Complex Systems and Data Science'
+title: 'PhD student'
+program: 'Complex Systems and Data Science'
 institution: 'University of Vermont'
-image: '/images/luc-bio.png'
+image: '/images/bio-luc.jpeg'
 email: 'luc.cohen-wanis@uvm.edu'
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: "Sam Zhang"
+name: "Sam Zhang"
+pronouns: "he/him"
+last_name: "Zhang"
 collection: people
 role: "pi"
 permalink: /people/sam-zhang
-excerpt: 'Principal Investigator and Assistant Professor'
-position: 'Assistant Professor, Mathematics and Statistics'
+position: 'PI, Assistant Professor'
+program: "Mathematics and Statistics"
 institution: 'University of Vermont'
 email: 'sam.zhang@uvm.edu'
 image: '/images/sam-uvm.jpg'

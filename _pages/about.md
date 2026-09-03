@@ -14,6 +14,8 @@ Welcome to the Science and Humanity Lab at the [Vermont Complex Systems Institut
 
 **News**
 
+* (Sep 2026) Welcome Callandra, Chris, Samantha, and Rae to the lab!
+
 * (Jul 2026) New paper in _[Science Advances](https://www.science.org/doi/10.1126/sciadv.aec0494)_, where we anonymize five years of peer review data from _Science_ and _Science Advances_. [Link to open data](https://zenodo.org/records/16859490); [scrolly-tell](https://complexstories.uvm.edu/peer-review/).
 
 * (Dec 2025) Co-organized two workshops in December at the Santa Fe Institute: (1) [Towards a Data-Driven Science of Stories](https://www.santafe.edu/events/towards-a-data-driven-science-of-stories) with Peter Dodds, Samsun Knight, and Juniper Lovato; and (2) [Understanding the Historical Forces Driving Expansions of Human Rights](https://www.santafe.edu/events/understanding-the-historical-forces-driving-expansions-of-human-rights) with David Wolpert.
