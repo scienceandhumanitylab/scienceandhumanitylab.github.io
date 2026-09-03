@@ -12,4 +12,4 @@ image: '/images/bio-samantha.jpg'
 email: 'samantha.magid@uvm.edu'
 ---
 
-Samantha Magid is pursuing an MS in Complex Systems and Data Science at the Vermont Complex Systems Institute, where she studies mathematical and probabilistic approaches to interdisciplinary complex systems. Sam Zhang centers around stochastic approaches to understanding scientific productivity. She is interested in metascience, sequential systems, and causal inference. She holds a B.S. in Data Science and Environmental Science from Boston University.
+Samantha Magid is pursuing an MS in Complex Systems and Data Science at the Vermont Complex Systems Institute, where she studies mathematical and probabilistic approaches to interdisciplinary complex systems. Her work with Sam Zhang centers around stochastic approaches to understanding scientific productivity. She is interested in metascience, sequential systems, and causal inference. She holds a B.S. in Data Science and Environmental Science from Boston University.
