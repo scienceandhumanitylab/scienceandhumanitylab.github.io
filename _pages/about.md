@@ -14,7 +14,7 @@ Welcome to the Science and Humanity Lab at the [Vermont Complex Systems Institut
 
 **News**
 
-* (Sep 2026) Welcome Callandra, Chris, Samantha, and Rae to the lab!
+* (Sep 2026) Welcome [Callandra, Chris, Jeremy, Samantha, and Rae](/people) to the lab!
 
 * (Jul 2026) New paper in _[Science Advances](https://www.science.org/doi/10.1126/sciadv.aec0494)_, where we anonymize five years of peer review data from _Science_ and _Science Advances_. [Link to open data](https://zenodo.org/records/16859490); [scrolly-tell](https://complexstories.uvm.edu/peer-review/).
 

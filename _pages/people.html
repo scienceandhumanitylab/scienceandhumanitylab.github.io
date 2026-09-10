@@ -8,7 +8,7 @@ author_profile: false
 {% include base_path %}
 
 {% assign roles = "pi,phd,ms,cert" | split: "," %}
-{% assign role_labels = "Principal Investigator,PhD Students,MS Students,Certificate Students" | split: "," %}
+{% assign role_labels = "Principal Investigator,PhD Students,MS Students,Graduate Certificate Students" | split: "," %}
 
 {% for role in roles %}
   {% assign members = site.people | where: "role", role | sort: "last_name" %}
