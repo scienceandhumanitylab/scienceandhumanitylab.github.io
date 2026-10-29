@@ -8,7 +8,7 @@ permalink: /people/chris
 title: 'PhD student'
 program: 'Complex Systems and Data Science'
 institution: 'University of Vermont'
-image: '/images/bio-chris.png'
+image: '/images/bio-chris.jpg'
 email: 'Christopher.Donovan@uvm.edu'
 ---
 
