@@ -14,6 +14,8 @@ Welcome to the Science and Humanity Lab at the [Vermont Complex Systems Institut
 
 **News**
 
+* (Nov 2026) We are excited to host [Dr. Patrick Ball](https://hrdag.org/people/patrick-ball-phd/) from the [Human Rights Data Analysis Group](https://hrdag.org/) for a week-long visit and a [statistics colloquium](https://events.uvm.edu/event/stat-at-uvm-colloquium-series-patrick-ball).
+
 * (Sep 2026) Welcome [Callandra, Chris, Jeremy, Samantha, and Rae](/people) to the lab!
 
 * (Jul 2026) New paper in _[Science Advances](https://www.science.org/doi/10.1126/sciadv.aec0494)_, where we anonymize five years of peer review data from _Science_ and _Science Advances_. [Link to open data](https://zenodo.org/records/16859490); [scrolly-tell](https://complexstories.uvm.edu/peer-review/).
